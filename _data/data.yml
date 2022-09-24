@@ -65,9 +65,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Geotechnologies applied to Construction, Energy and Industry
+        university: University of Salamanca
+        time: 2013 - 2017
+        details: |
+          Development of Computer Vision solutions for the automatic analysis of geomatic products 
+          (LiDAR/Photogrammetric Point Clouds and Multispectral Imagery) applied to the management of energy resources.
+            - Bullet point a
+            - Bullet point b
+      - degree: MSc in Cartographic Geotechnologies applied to engineering and Architecture
+        university: University of Salamanca
+        time: 2012 - 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +84,31 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: BSc in Surveying Engineering
+        university: University of Oviedo
         time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: CertHE in Multiplatform Applications Development
+        university: CIFP of Avilés
+        time: 2014 - 2016
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: CertHE in WEB Applications Development
+        university: CIFP of Avilés
+        time: 2014 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
