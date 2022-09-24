@@ -78,8 +78,8 @@ content:
       - layout: left
         title: Hexagon
         link: https://hexagon.com/
-        link_text: hexagon.com
-        sub_title: Technical Project Manager and Machine Learning Engineer
+        link_text: www.hexagon.com
+        sub_title: R&D Project Manager and Machine Learning Engineer
         caption: July 2020 - Present
         quote: >
           TODO: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
@@ -87,10 +87,10 @@ content:
           Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
           
       - layout: left
-        title: CTAG-Automotive Technology Centre of Galicia
+        title: CTAG
         link: https://ctag.com/en/
-        link_text: ctag.com
-        sub_title: Technical Project Manager and Machine Learning/Computer vision Engineer
+        link_text: www.ctag.com
+        sub_title: R&D Project Manager and Computer Vision Engineer
         caption: March 2018 - June 2020
         quote: >
           Research and development of calibration and perception algorithms for several "Car Makers" and "Tier 1" suppliers. 
@@ -100,8 +100,8 @@ content:
       - layout: left
         title: INSITU Engineering
         link: https://ingenieriainsitu.com/en/
-        link_text: ingenieriainsitu.com
-        sub_title: Technical Project Manager and Machine Learning/Computer Vision Engineer
+        link_text: www.ingenieriainsitu.com
+        sub_title: R&D Project Manager and Computer Vision Engineer
         caption: July 2016 - February 2018
         quote: >
           Research and development. 
@@ -111,8 +111,8 @@ content:
       - layout: left
         title: TIDOP Research Group - University of Salamanca
         link: https://tidop.usal.es/
-        link_text: tidop.usal.es
-        sub_title: Computer Vision & Geomatics Researcher
+        link_text: www.tidop.usal.es
+        sub_title: Computer Vision Researcher
         caption: August 2014 - June 2016
         quote: >
           Research and development. 
