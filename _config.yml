@@ -76,10 +76,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Technical Project Manager and Machine Learning/Computer vision Engineer
+        title: Hexagon
+        link: https://hexagon.com/
+        link_text: hexagon.com
+        sub_title: Technical Project Manager and Machine Learning Engineer
+        caption: July 2020 - Present
+        quote: >
+          TODO: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        description: | # this will include new lines to allow paragraphs
+          Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
+          
+      - layout: left
+        title: CTAG-Automotive Technology Centre of Galicia
         link: https://ctag.com/en/
-        link_text: CTAG-Automotive Technology Centre of Galicia
-        sub_title: ADAS/AD Research
+        link_text: ctag.com
+        sub_title: Technical Project Manager and Machine Learning/Computer vision Engineer
         caption: March 2018 - June 2020
         quote: >
           Research and development of calibration and perception algorithms for several "Car Makers" and "Tier 1" suppliers. 
@@ -87,10 +98,10 @@ content:
           Filtering, semantic segmentation, clustering, oriented bounding box estimation and object tracking algorithms, among others, for camera, RADAR and LiDAR sensors.
   
       - layout: left
-        title: Technical Project Manager and Machine Learning/Computer Vision Engineer
+        title: INSITU Engineering
         link: https://ingenieriainsitu.com/en/
-        link_text: INSITU Engineering
-        sub_title: Geomatics
+        link_text: ingenieriainsitu.com
+        sub_title: Technical Project Manager and Machine Learning/Computer Vision Engineer
         caption: July 2016 - February 2018
         quote: >
           Research and development. 
@@ -98,16 +109,16 @@ content:
           Development of calibration, Artificial Intelligence and Computer Visión algorithms for asset detection, classification, description and tracking in MMS (Mobile Mapping System) and UAV (Unmanhed Aerial Vehicle) data, mainly acquired with GNSS, LiDAR and imaging sensors.
 
       - layout: left
-        title: Computer Vision & Geomatics Researcher
+        title: TIDOP Research Group - University of Salamanca
         link: https://tidop.usal.es/
-        link_text: TIDOP Research Group - University of Salamanca
-        sub_title: Geomatics
+        link_text: tidop.usal.es
+        sub_title: Computer Vision & Geomatics Researcher
         caption: August 2014 - June 2016
         quote: >
           Research and development. 
         description: | # this will include new lines to allow paragraphs
           Development of a research line focused on the application of geomatic strategies (LiDAR and imaging acquisition and processing) for the optimization of energetic resources, as well as collaboration in numerous research projects.  Currently I continue to collaborate with the research group as an external consultant on Computer Vision and Artificial Intelligence issues.
-          
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
