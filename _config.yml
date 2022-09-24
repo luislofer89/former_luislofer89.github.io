@@ -76,6 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Hexagon
         link: https://hexagon.com/
         link_text: www.hexagon.com
@@ -87,6 +88,7 @@ content:
           *TODO*: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
           
       - layout: left
+        border: weak
         title: CTAG
         link: https://ctag.com/en/
         link_text: www.ctag.com
@@ -98,6 +100,7 @@ content:
           Filtering, semantic segmentation, clustering, oriented bounding box estimation and object tracking algorithms, among others, for camera, RADAR and LiDAR sensors.
   
       - layout: left
+        border: weak
         title: INSITU Engineering
         link: https://ingenieriainsitu.com/en/
         link_text: www.ingenieriainsitu.com
@@ -109,6 +112,7 @@ content:
           Development of calibration, Artificial Intelligence and Computer Visión algorithms for asset detection, classification, description and tracking in MMS (Mobile Mapping System) and UAV (Unmanhed Aerial Vehicle) data, mainly acquired with GNSS, LiDAR and imaging sensors.
 
       - layout: left
+        border: weak
         title: TIDOP Research Group - University of Salamanca
         link: https://tidop.usal.es/
         link_text: www.tidop.usal.es
@@ -123,6 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: University of Salamanca
         caption: 2013 - 2017
         sub_title: PhD in Geotechnologies applied to Construction, Energy and Industry
@@ -132,6 +137,7 @@ content:
           Development of Computer Vision solutions for the automatic analysis of geomatic products (LiDAR/Photogrammetric Point Clouds and Multispectral Imagery) applied to the management of energy resources.
 
       - layout: left
+        border: weak
         title: University of Salamanca
         caption: 2012 - 2013
         sub_title: Master's Degree in Cartographic Geotechnologies applied to engineering and Architecture
@@ -141,6 +147,7 @@ content:
           *TODO*: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
 
       - layout: left
+        border: weak
         title: University of Oviedo
         caption: 2007 - 2011
         sub_title: Bachelor's Degree in Surveying Engineering
@@ -150,6 +157,7 @@ content:
           *TODO*: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
 
       - layout: left
+        border: weak
         title: CIFP of Avilés
         caption: 2014 - 2016
         sub_title: Certificate of Higher Education in Multiplatform Applications Development
@@ -159,6 +167,7 @@ content:
           *TODO*: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
 
       - layout: left
+        border: weak
         title: CIFP of Avilés
         caption: 2014 - 2016
         sub_title: Certificate of Higher Education in WEB Applications Development
