@@ -62,35 +62,9 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: PhD in Geotechnologies applied to Construction, Energy and Industry
-        university: University of Salamanca
-        time: 2013 - 2017
-        details: |
-          Development of Computer Vision solutions for the automatic analysis of geomatic products 
-          (LiDAR/Photogrammetric Point Clouds and Multispectral Imagery) applied to the management of energy resources.
-            - Bullet point a
-            - Bullet point b
-      - degree: MSc in Cartographic Geotechnologies applied to engineering and Architecture
-        university: University of Salamanca
-        time: 2012 - 2013
-
-      - degree: BSc in Surveying Engineering
-        university: University of Oviedo
-        time: 2007 - 2011
-
-      - degree: CertHE in Multiplatform Applications Development
-        university: CIFP of Avilés
-        time: 2014 - 2016
-
-      - degree: CertHE in WEB Applications Development
-        university: CIFP of Avilés
-        time: 2014 - 2016
 
 experiences:
-    title: Professional Experiences
+    title: Professional Experience
     info:
       - role: R&D Project Manager and Machine Learning Engineer
         time: July 2020 - Present
@@ -140,6 +114,34 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+            
+education:
+    title: Education
+    info:
+      - degree: PhD in Geotechnologies applied to Construction, Energy and Industry
+        university: University of Salamanca
+        time: 2013 - 2017
+        details: |
+          Development of Computer Vision solutions for the automatic analysis of geomatic products 
+          (LiDAR/Photogrammetric Point Clouds and Multispectral Imagery) applied to the management of energy resources.
+            - Bullet point a
+            - Bullet point b
+      - degree: MSc in Cartographic Geotechnologies applied to engineering <br>and Architecture
+        university: University of Salamanca
+        time: 2012 - 2013
+
+      - degree: BSc in Surveying Engineering
+        university: University of Oviedo
+        time: 2007 - 2011
+
+      - degree: CertHE in Multiplatform Applications Development
+        university: CIFP of Avilés
+        time: 2014 - 2016
+
+      - degree: CertHE in WEB Applications Development
+        university: CIFP of Avilés
+        time: 2014 - 2016
+
 projects:
     title: Complementary Education
     assignments:
