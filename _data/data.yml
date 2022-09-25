@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.luislofer89.github.io/resume.pdf
+    pdf: http://www.luislofer89.github.io/assets/resume.pdf
 
     languages:
       title: Languages
@@ -114,7 +114,7 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-            
+
 education:
     title: Education
     info:
