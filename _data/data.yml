@@ -118,7 +118,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Professional Experiences
     info:
       - role: R&D Project Manager and Machine Learning Engineer
         time: July 2020 - Present
@@ -135,7 +135,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: SCRUM Master and Computer Vision/Machine Learning Engineer
+      - role: SCRUM Master and Computer Vision Engineer
         time: March 2018 - June 2020
         company: CTAG, Spain
         details: |
