@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: luislofer89@gmail.com  
     phone: +41 78 727 82 85  
-    timezone: America/Cancun Timezone
+    timezone: Europe/Berlin Timezone (CET)
     citizenship:
     website: luislofer89.github.io #do not add http://
     linkedin: luislopezfdez
@@ -135,7 +135,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: R&D Project Manager and Computer Vision Engineer
+      - role: SCRUM Master and Computer Vision/Machine Learning Engineer
         time: March 2018 - June 2020
         company: CTAG, Spain
         details: |
@@ -169,31 +169,28 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
+    title: Complementary Education
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Artificial Intelligence Nanodegree and Spezializations by Udacity
+        link: "https://confirm.udacity.com/6P7PJMCG"
+        tagline: "In this program, I learnt essential Artificial Intelligence concepts from AI experts like Peter Norvig and Sebastian Thrun, that can be applied to many field like Natural Language Porcesing, Computer Vision or Predictive Mainteinance, among others. I completed projects and exercises incorporating search, optimization, planning, and probabilistic graphical models which have been used in Artificial Intelligence applications for automation, logistics, operations research, and more. "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Agile Software Development Nanodegree by Udacity
+        link: "https://confirm.udacity.com/VXCKPCKN"
+        tagline: "In this program, I learnt how to build products that deliver continuous value to customers using an Agile approach to software development. I worked with agile strategies like Scrum, Kanban and XP, that can be used to create an environment that fosters high performing teams, and manage iteration planning using Agile techniques. I worked on the creation of a release plan for a Minimum Viable Product, creating metrics that show project status, and designing communication strategies to effectively communicate progress both within and outside of the development team."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Project Management Professional Certificate by Google
+        link: "https://www.credly.com/badges/be8ccc9d-e239-4e96-bbdf-a8386949259f/public_url"
+        tagline: "In this program, I got an immersive understanding of the practices and skills needed to succeed in aproject management role. I learnt how to create effective project documentation and artifacts throughout the various phases of a project. I worked with the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles. Additionaly, I practiced strategic communication, problem-solving, and stakeholder management through real-world scenarios"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Blockchain Developer Nanodegree by Udacity
+        link: "https://confirm.udacity.com/JTLCSGHC"
+        tagline: "In this program, I learnt the fundamentals of the blockchain platform, working both with the Bitcoin and Ethereum protocols. I created my own private blockchain, and secured digital assets using blockchain identity capabilities. I explore the Ethereum platform and used Solidity and smart contracts to develop my own decentralized apps. I built projects for real-world applications, and gain the essential skills for a career in this dynamic space."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
