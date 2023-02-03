@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LuisLF&#39;s AI drops</title>
-    <link>https://luislf.xyz/blog/</link>
-    <description>Recent content on LuisLF&#39;s AI drops</description>
+    <title>Posts on LuisLF&#39;s AI drops</title>
+    <link>https://luislf.xyz/blog/posts/</link>
+    <description>Recent content in Posts on LuisLF&#39;s AI drops</description>
     <image>
       <url>https://luislf.xyz/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://luislf.xyz/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 15:53:49 +0100</lastBuildDate><atom:link href="https://luislf.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 15:53:49 +0100</lastBuildDate><atom:link href="https://luislf.xyz/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About_me</title>
       <link>https://luislf.xyz/blog/posts/about_me/</link>
@@ -19,15 +19,6 @@
       <description>&amp;ldquo;Hi there!!&amp;rdquo; Welcome to my blog! This is just a dummy post to test the system.
 Here I will collect and summarize a bunch of AI-related topics.
 Visit my website!</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://luislf.xyz/blog/post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://luislf.xyz/blog/post/</guid>
-      <description>Desc Text.</description>
     </item>
     
   </channel>
